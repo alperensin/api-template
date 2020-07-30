@@ -9,7 +9,7 @@
 [`$ yarn add express `](https://www.npmjs.com/package/express) </br>
 
 #### Módulos de Desenvolvimento
-`$ yarn add `[`nodemon`](https://www.npmjs.com/package/nodemon)[`sucrase`](https://www.npmjs.com/package/sucrase)` -D ` </br>
+`$ yarn add `[`nodemon`](https://www.npmjs.com/package/nodemon)[` sucrase `](https://www.npmjs.com/package/sucrase)` -D ` </br>
 `$ yarn add eslint -D ` </br>
 `$ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D ` </br>
 
