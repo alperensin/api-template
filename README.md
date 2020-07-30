@@ -2,14 +2,18 @@
 
 ## Configurar API
 
-### Instalação Módulos
+### Instalação dos Módulos
+
+#### Módulos Gerais
 `$ yarn init -y ` </br>
-`$ yarn add express ` </br>
-`$ yarn add nodemon sucrase -D ` </br>
+[`$ yarn add express `](https://www.npmjs.com/package/express) </br>
+
+#### Módulos de Desenvolvimento
+`$ yarn add `[`nodemon`](https://www.npmjs.com/package/nodemon)[`sucrase`](https://www.npmjs.com/package/sucrase)` -D ` </br>
 `$ yarn add eslint -D ` </br>
 `$ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D ` </br>
 
-### Configurar Ferramentas Desenvolvimento
+### Configuração das Ferramentas de Desenvolvimento
 > **`$ yarn eslint --init`** ( </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- To check syntax, find problems, and enforce, </br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- JavaScript modules (import/export), </br>
@@ -32,7 +36,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- `$ yarn eslint --fix src --ext .js` (para fixar já arquivos criados dentro da pasta src com a extenção js) </br>
 )
 
-## Estrutura
+## Estrutura API
 
 ```
   └── Projeto
