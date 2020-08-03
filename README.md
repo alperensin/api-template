@@ -15,6 +15,7 @@
 `$ yarn add `[`nodemon`](https://www.npmjs.com/package/nodemon)[` sucrase `](https://www.npmjs.com/package/sucrase)` -D ` </br>
 `$ yarn add eslint -D ` </br>
 `$ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D ` </br>
+`$ yarn add sequelize-cli` </br>
 
 ### Configuração das Ferramentas de Desenvolvimento
 > **`$ yarn eslint --init`** ( </br>
@@ -46,6 +47,9 @@
 ```
   └── Projeto
        ├── src
+       |   ├── app
+       |   |    ├── controllers
+       |   |    └── models
        │   ├── app.js
        │   ├── routes.js
        │   └── server.js
