@@ -40,7 +40,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- `$ yarn eslint --fix src --ext .js` (para fixar já arquivos criados dentro da pasta src com a extenção js) </br>
 )
 
-### Configurando **Sequelize**(ORM) e **Postgresql**(DB) 
+### Configurando **Sequelize** (ORM) e **Postgresql** (DB) 
 
 ## Estrutura API
 
