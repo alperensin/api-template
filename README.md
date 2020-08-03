@@ -5,8 +5,11 @@
 ### Instalação dos Módulos
 
 #### Módulos Gerais
+##### Servidor
 `$ yarn init -y ` </br>
 [`$ yarn add express `](https://www.npmjs.com/package/express) </br>
+##### Banco de Dados
+`$ yarn add sequelize` </br>
 
 #### Módulos de Desenvolvimento
 `$ yarn add `[`nodemon`](https://www.npmjs.com/package/nodemon)[` sucrase `](https://www.npmjs.com/package/sucrase)` -D ` </br>
@@ -35,6 +38,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- Configurar arquivo **.prettierrc**, </br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-- `$ yarn eslint --fix src --ext .js` (para fixar já arquivos criados dentro da pasta src com a extenção js) </br>
 )
+
+### Configurando **Sequelize**(ORM) e **Postgresql**(DB) 
 
 ## Estrutura API
 
